@@ -1,0 +1,6 @@
+resources/
+.env
+.idea/
+*.iml
+.Rhistory
+.RData
