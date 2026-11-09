@@ -1,5 +1,7 @@
 # PreFEPO: preprocessing for FEPO
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088715.svg)](https://doi.org/10.5281/zenodo.24088715)
+
 PreFEPO cleans and harmonises the sandfly trap records and extracts the meteorological, hydrological and morphological predictors at the trap sites and dates, producing the training tables of FEPO.
 
 PreFEPO was developed by Majid Soheili at the Helmholtz Centre for Environmental Research - UFZ in the
@@ -301,8 +303,9 @@ conda install -c conda-forge r-rnaturalearth r-rnaturalearthdata
 
 ## Citation
 
-If you use PreFEPO, please cite the article above and this software (see `CITATION.cff`; the DOI of
-each release is on Zenodo).
+If you use PreFEPO, please cite the article above and this software (see `CITATION.cff`). The DOI
+<https://doi.org/10.5281/zenodo.24088715> always points to the latest release; release 1.0.0 is
+<https://doi.org/10.5281/zenodo.24088716>.
 
 ## Licence
 
