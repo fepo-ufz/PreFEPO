@@ -304,8 +304,7 @@ conda install -c conda-forge r-rnaturalearth r-rnaturalearthdata
 ## Citation
 
 If you use PreFEPO, please cite the article above and this software (see `CITATION.cff`). The DOI
-<https://doi.org/10.5281/zenodo.24088715> always points to the latest release; release 1.0.0 is
-<https://doi.org/10.5281/zenodo.24088716>.
+<https://doi.org/10.5281/zenodo.24088715> always points to the latest release.
 
 ## Licence
 
